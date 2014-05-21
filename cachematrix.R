@@ -66,6 +66,3 @@ cacheSolve(b)
 cacheSolve(b)
 
 cacheSolve(b)%*%matrix((1:4),2,2)
-
-
-#################################
